@@ -11,16 +11,24 @@
                         <arguments>
                         <arguments>
 			</arguments>
+<arguments>
+                        <arguments>
+                        <arguments>
+			</arguments>
+
 		</buildCommand>
 	</buildSpec>
 	<natures>
 <natures>
 <natures>
 <natures>
+<<<<<<< HEAD
 <natures>
 <natures>
 <natures>
 
+=======
+>>>>>>> 2784395fe2b5754804d0027b32e2812756e946b7
 
         <natures>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
